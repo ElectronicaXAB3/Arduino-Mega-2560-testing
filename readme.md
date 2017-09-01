@@ -1,6 +1,6 @@
 Arduino Mega 2560
 ========
-The shortest ATMEGA2560 program that outputs "Hello, World!" to serial console. It is used to make sure an Arduino Mega 2560 board is working.
+Some demo programs for Arduino Mega 2560 board.
 
 ![Arduino Mega 2560 Board](Arduino-Mega-2560.png)
 
