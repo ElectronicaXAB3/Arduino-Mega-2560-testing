@@ -4,7 +4,7 @@ The shortest ATMEGA2560 program that outputs "Hello, World!" to serial console. 
 
 ![Arduino Mega 2560 Board](Arduino-Mega-2560.png)
 
-Arduino IDE ReadMe
+ReadMe Links
 ------------
 [Serial/Print](https://www.arduino.cc/en/Serial/Print)
 
